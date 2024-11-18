@@ -2,20 +2,6 @@
 
 ---
 
-### License
-
-This project is licensed under the **Pete's Non-Commercial License**.
-
-#### Key Terms:
-
-- **Non-Commercial Use Only**: You may use, modify, and share this software, but **commercial use is prohibited** without explicit written permission.
-- **No AI Training**: This software **cannot be used to train or improve AI or machine learning models** without explicit written permission.
-- **Attribution Required**: If you share or modify the software, you must include the original license and attribution.
-
-For full details, see the [LICENSE](LICENSE) file.
-
----
-
 **GIM** (Git Identity Manager) is a CLI tool designed to help developers manage multiple SSH keys effortlessly. Whether you're juggling work and personal GitHub accounts or multiple project identities, GIM simplifies the process of switching between them.
 
 ---
